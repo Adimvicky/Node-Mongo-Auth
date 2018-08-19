@@ -1,0 +1,26 @@
+<% include partials/_header %>
+
+
+<h1 class="heading-secondary">Login Form</h1>
+<form action="/login" method="POST">
+   
+<div class="form__group">
+        <input type="text" id="name" name="username" class="form__input" placeholder="Username" required>
+         <label for="username" class="form__label">Username</label>
+  </div>
+
+ <div class="form__group">
+        <input type="password" id="email" name="password" class="form__input" placeholder="password" required>
+        <label for="password" class="form__label">Password</label>
+ </div>
+
+<button class="btn btn--green">
+  Login
+</button>
+
+</form>
+
+
+<% include partials/_footer %>
+
+
