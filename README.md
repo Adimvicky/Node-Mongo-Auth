@@ -1,5 +1,5 @@
 # Node-Mongo-Auth
-A NodeJS, MongoDB  user authenication boilerplate to fit all use cases!
+A NodeJS, MongoDB  user authentication boilerplate to fit all use cases!
 
 This is a MEN stack user authentication boilerplate on which you can build for your web apps depending on the use case.
 To get the app running on your local machine, you must have MongoDB and Node.js installed!
